@@ -71,6 +71,6 @@ The discussions around bias will be extremely helpful in the development of our 
 
 #### DELETE ME TEST
 <ul><li>Item 1</li><li>Item 2</li></ul>
-|   |   |
+|  test | Test  |
 | --- | --- |
-| <img src="https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg"> |   |
+| <img src="https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg"> | test  |
