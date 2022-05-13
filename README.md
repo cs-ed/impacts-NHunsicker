@@ -23,6 +23,7 @@ At the time of writing we do not yet have a license to access the full curriculu
 The California standard most closely aligned with the content of this lesson is **K-2.IC.18** which is **Compare how people lived and worked before and after the adoption of new computing technologies.** However, the lesson is modeled around the CSTA standard **1B-IC-18** which is **Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.**
 
 The specific learning objectives of this lesson will be:
+
 -Identify a computing advancement
 -Give examples of problems that the chosen computing advancement solved
 -Infer problems that the chosen computing advancement may have created
