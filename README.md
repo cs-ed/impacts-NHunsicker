@@ -5,8 +5,9 @@ This document describes a plan for the implementation on societies impacts by co
 ![CCDS Logo](https://www.chicocountryday.org/wp-content/uploads/ccds-color.png) 
 
 ![Ozaria Logo](https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg)
-
-<img src="./images/ccds-color.png">
+<p>
+  <img src="./images/ccds-color.png" width="200" title="CCDS Logo">
+  <img src="./images/codecombat_ozaria.jpg" width="200" title="Ozaria Logo">
 [[https://www.chicocountryday.org/wp-content/uploads/ccds-color.png|width=200px]]
 
 
