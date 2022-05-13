@@ -61,6 +61,28 @@ While electives are not graded in our school, learning will be assessed with the
 | --- | --- | --- | --- | --- |
 | **1B-IC-18** - Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.| <ul> <li>One or more major sections of the assignemnt are missing.</li> <li>Students may not have identified problems solved by or caused by their advancement.</li> </ul> | <ul> <li>Students identified a major advancement in computation but may not have included one or more of the following: who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li> <li>Students provided an example one or more problems their advancement helped to solve, but did not explain how their advancement solved it.</li> <li>Students provide an example of a problem caused by their advancement with no inference to how it is related to their advancement.</li> </ul> | <ul> <li>Students identified a major advancement in computation including who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li> <li>Students provided examples of problems that their advancement solved, but may not have explained how and/or why this solved problems.</li> <li>Finally, students inferred problems that this advancement has caused or may cause in the future, but may not have explained why their chosen advancement is related to these problems.</li> </ul> | <ul> <li>Students identified a major advancement in computation including who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li> <li>Students not only provided examples of which problems their advancement solved, but also why and/or how the advancement solved those issues.</li> <li>Finally, students inferred problems that this advancement has caused or will cause in the future and why they think this advancement is related.</li> </ul> |
 
+<table>
+  <tr>
+    <th>Standard</th>
+    <th>Emerging</th>
+    <th>Practicing</th>
+    <th>Mastery</th>
+    <th>Advanced</th>
+  </tr>
+  <tr>
+    <td>**1B-IC-18** - Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.</td>
+    <td><ul><li>One or more major sections of the assignemnt are missing.</li><li>Students may not have identified problems solved by or caused by their advancement.</li></ul></td>
+    <td><ul><li>Students identified a major advancement in computation but may not have included one or more of the following: who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li><li>Students provided an example one or more problems their advancement helped to solve, but did not explain how their advancement solved it.</li><li>Students provide an example of a problem caused by their advancement with no inference to how it is related to their advancement.</li></ul></td>
+    <td><ul><li>Students identified a major advancement in computation including who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li><li>Students provided examples of problems that their advancement solved, but may not have explained how and/or why this solved problems.</li><li>Finally, students inferred problems that this advancement has caused or may cause in the future, but may not have explained why their chosen advancement is related to these problems.</li></ul></td>
+    <td><ul><li>Students identified a major advancement in computation including who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li><li>Students not only provided examples of which problems their advancement solved, but also why and/or how the advancement solved those issues.</li><li>Finally, students inferred problems that this advancement has caused or will cause in the future and why they think this advancement is related.</li></ul></td>
+  </tr>
+</table>
+
+
+
+
+
+
 ### Outcomes
 
 The plan described above doesn't necessarily focus on diversity, equity, or inclusion. That said, it is possible that students will pick a computing advancement that does contribute to one of these topics. That said, it would not be difficult to direct students to pick an advancement that they think may have had an effect on diversity, equity, or inclusion. It is also important to note that this is a plan to implement just one particular lesson, but there are lessons much more closely tied to these topics later on in the curriculum. Of particular note are the following two lessons:
