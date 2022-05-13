@@ -57,9 +57,9 @@ The described learning activity will be broken down into **8 separate steps** to
 
 While electives are not graded in our school, learning will be assessed with the following rubrik:
 
-| | Emerging | Practicing | Mastery | Advanced |
+| Standard | Emerging | Practicing | Mastery | Advanced |
 | --- | --- | --- | --- | --- |
-| Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.| Test 1 | Test 2 | Test 3 | Test 4 |
+| **1B-IC-18** - Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.| Students  | Test 2 | Students identified a major advancement in computation including who was responsible for the advancement, where the advancement happened, and when the advancement happened. Students provided examples of problems that their advancement solved, but may not have explained how and/or why this solved problems. Finally, students inferred problems that this advancement has caused or may cause in the future, but may not have explained why their chosen advancement is related to these problems. | Students identified a major advancement in computation including who was responsible for the advancement, where the advancement happened, and when the advancement happened. Students not only provided examples of which problems their advancement solved, but also why and/or how the advancement solved those issues. Finally, students inferred problems that this advancement has caused or will cause in the future and why they think this advancement is related |
 
 ### Outcomes
 
