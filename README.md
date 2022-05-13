@@ -1,6 +1,9 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+This document describes a plan for the implementation on societies impacts by computation for a course to be implemented at Chico Country Day School. The plan for implementing the class overall can be found here: 
+
+| ![CCDS Logo](https://www.chicocountryday.org/wp-content/uploads/ccds-color.png)  | ![Ozaria Logo](https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg) |
+| ---------------- | --------------- |
 
 ## Plan
 
