@@ -6,7 +6,7 @@ This document describes a plan for the implementation on societies impacts by co
 
 ![Ozaria Logo](https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg)
 
-<img srg="./images/ccds-color.png">
+<img src="./images/ccds-color.png">
 [[https://www.chicocountryday.org/wp-content/uploads/ccds-color.png|width=200px]]
 
 
