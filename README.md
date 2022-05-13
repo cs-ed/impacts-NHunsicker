@@ -14,11 +14,18 @@ The proposed course is tentatively titled **Introduction to Programming**. This 
 These lessons will fall into the second type of lesson found in the edtech plan linked above and repeated below: 
 >Some lessons will have students working in groups to research ideas and concepts. These groups will then bring their findings back to the class for discussion. During this period of time students will be using chromebooks to do this research. It is anticipated that students will start with google, google scholar, or wikipedia and branch into other sources as necessary during this time. During this period of time the teacher will monitor go guardian for off task behaviors while also moving between groups to help guide discussions.
 
-At the time of writing we do not yet have a license to access the full curriculum, but the pacing guide indicates that there are **4 lessons on the impacts of computing** in the curriculum across the school year with each lesson lasting 1 or 2 days. This document will outline how the first lesson, **How technology solves and creates problems** will be implemented over the course of two class sessions.
+At the time of writing we do not yet have a license to access the full curriculum, but the pacing guide indicates that there are **4 lessons on the impacts of computing** in the curriculum across the school year with each lesson lasting 1 or 2 days. This document will outline how just the first lesson, **How technology solves and creates problems** will be implemented over the course of two class sessions in the fourth week of class.
 
 ## Plan
 
 ### Learning Objectives
+
+The California standard most closely aligned with the content of this lesson is **K-2.IC.18** which is **Compare how people lived and worked before and after the adoption of new computing technologies.** However, the lesson is modeled around the CSTA standard **1B-IC-18** which is **Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.**
+
+The specific learning objectives of this lesson will be:
+-Identify a computing advancement
+-Give examples of problems that the chosen computing advancement solved
+-Infer problems that the chosen computing advancement may have created
 
 Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
 
