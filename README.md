@@ -68,3 +68,6 @@ The plan described above doesn't necessarily focus on diversity, equity, or incl
 - Bias and stereotypes, including definitions of bias and stereotypes, where bias and stereotypes come from, types of bias, how bias can affect decisions, and how to overcome bias.
 
 The discussions around bias will be extremely helpful in the development of our students into citizens and correlates with one of the major pieces of professional development that our faculty has been working with in the 2021/2022 school year. The demographic of our school is currently less diverse than the other schools in the area. Exposure to the biases that students may have will likely be a challenge for our students' existing schemas and is important for developing empathy and and open mindedness. While this course is focused primarily on developing understanding of how to use python and how to work with algorithms, the opportunities for exploring impacts of computing with the guidance of this curriculum is exciting.
+
+#### DELETE ME TEST
+<ul><li>Item 1</li><li>Item 2</li></ul>
