@@ -11,8 +11,10 @@ This document describes a plan for the implementation on societies impacts by co
 
 The proposed course is tentatively titled **Introduction to Programming**. This title is a work in progress and I'll be working on braingstorming a more dynamic course title. This course will introduce students to algorithms and programming in the python language using the **Azoria** curriculum from **Code Combat** as an elective. This course will meet on average three times per week for an entire school year. This course will be aimed at **middle shcool students** with a particular emphasis on students in **grades 7 and 8**.
 
-These lessons will fall into the second type of lesson found in the edtech plan linked above and described below: 
+These lessons will fall into the second type of lesson found in the edtech plan linked above and repeated below: 
 >Some lessons will have students working in groups to research ideas and concepts. These groups will then bring their findings back to the class for discussion. During this period of time students will be using chromebooks to do this research. It is anticipated that students will start with google, google scholar, or wikipedia and branch into other sources as necessary during this time. During this period of time the teacher will monitor go guardian for off task behaviors while also moving between groups to help guide discussions.
+
+At the time of writing we do not yet have a license to access the full curriculum, but the pacing guide indicates that there are **4 lessons on the impacts of computing** in the curriculum across the school year with each lesson lasting 1 or 2 days. This document will outline how the first lesson, **How technology solves and creates problems** will be implemented over the course of two class sessions.
 
 ## Plan
 
