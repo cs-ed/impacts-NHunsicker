@@ -7,6 +7,12 @@ This document describes a plan for the implementation on societies impacts by co
   <img src="./images/codecombat_ozaria.jpg" width="400" title="Ozaria Logo">
 </p>
 
+## Context
+
+The proposed course is tentatively titled **Introduction to Programming**. This title is a work in progress and I'll be working on braingstorming a more dynamic course title. This course will introduce students to algorithms and programming in the python language using the **Azoria** curriculum from **Code Combat** as an elective. This course will meet on average three times per week for an entire school year. This course will be aimed at **middle shcool students** with a particular emphasis on students in **grades 7 and 8**.
+
+These lessons will fall into the second type of lesson found in the edtech plan linked above and described below: 
+>Some lessons will have students working in groups to research ideas and concepts. These groups will then bring their findings back to the class for discussion. During this period of time students will be using chromebooks to do this research. It is anticipated that students will start with google, google scholar, or wikipedia and branch into other sources as necessary during this time. During this period of time the teacher will monitor go guardian for off task behaviors while also moving between groups to help guide discussions.
 
 ## Plan
 
