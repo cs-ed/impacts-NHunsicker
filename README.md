@@ -55,7 +55,7 @@ The described learning activity will be broken down into **8 separate steps** to
 
 ### Assessment
 
-While electives are not graded in our school, learning will be assessed with the following rubrik:
+While electives are not graded in our school, learning will be assessed with the following rubric:
 
 | Standard | Emerging | Practicing | Mastery | Advanced |
 | --- | --- | --- | --- | --- |
@@ -63,4 +63,8 @@ While electives are not graded in our school, learning will be assessed with the
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+The plan described above doesn't necessarily focus on diversity, equity, or inclusion. That said, it is possible that students will pick a computing advancement that does contribute to one of these topics. That said, it would not be difficult to direct students to pick an advancement that they think may have had an effect on diversity, equity, or inclusion. It is also important to note that this is a plan to implement just one particular lesson, but there are lessons much more closely tied to these topics later on in the curriculum. Of particular note are the following two lessons:
+- Accessibility, including physical devices that assist people of differing abilities and methods of improving the accessibility of websites for people who having differing abilities
+- Bias and stereotypes, including definitions of bias and stereotypes, where bias and stereotypes come from, types of bias, how bias can affect decisions, and how to overcome bias.
+
+The intersection of bias will be extremely helpful in the development of our students into citizens. The demographic of our school currently lacks diversity. Exposure to the biases that students may have will likely be a challenge for our students' existing schemas. While this course is focused primarily on developing understanding of how to use python and how to work with algorithms, the opportunities for exploring impacts of computing with the guidance of this curriculum is exciting.
