@@ -1,6 +1,6 @@
 # Impacts on Society
 
-This document describes a plan for the implementation on societies impacts by computation for a course to be implemented at Chico Country Day School. The plan for implementing the class overall can be found here: https://cs-ed.github.io/edtech-plan-NHunsicker/
+This document describes a plan for the implementation on societies impacts by computation for a course to be implemented at Chico Country Day School. The plan for implementing the class overall can be found here: [Ozaria Ed-Tech Plan for CCDS](https://cs-ed.github.io/edtech-plan-NHunsicker/)
 
 <p align="center">
   <img src="./images/ccds-color.png" width="300" title="CCDS Logo">
