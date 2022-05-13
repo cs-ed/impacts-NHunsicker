@@ -33,7 +33,7 @@ The specific learning objectives of this lesson will be:
 
 ### Learning Activities
 
-The described learning activity will be broken down into **9 separate steps** to be completed over **2 or 3 class session**. The other 3 impacts of computing lessons will follow a similar structure, but will likely be broken down into a different number of steps and will have different learning objectives associated with the particular topics of those lessons.
+The described learning activity will be broken down into **8 separate steps** to be completed over **2 or 3 class session**. The other 3 impacts of computing lessons will follow a similar structure, but will likely be broken down into a different number of steps and will have different learning objectives associated with the particular topics of those lessons.
 
 1. As a whole class we will replay the module from chapter 1 titled "A Better World". This module describes what coding was used for in the world of Ozaria. This will serve as an introduction to this lesson.
 2. As a class we will discuss the following questions:
@@ -47,11 +47,19 @@ The described learning activity will be broken down into **9 separate steps** to
 - [Computers Changed History](https://www.bookyourdata.com/email-list-database/computers-changed-history)
 - [Rise of Smartphones](https://www.sciencemuseum.org.uk/objects-and-stories/computer-your-pocket-rise-smartphones)
 - [Evolution of Gaming](https://techcrunch.com/2015/10/31/the-history-of-gaming-an-evolving-community/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABgw5eqX1jXxZtTZd0Nbh7ITK0ANaFOT76i6QO3cd2jScb9lt1F9zZvUiaXL8Vd_l4A8kmcabj_3vg3-O6ejbH-Yp_6BWLidpepoh0Q90KGCFzsR_TMjooby_jp0GV1jGrr2N4hHt0nShGT-zYStynX41ncf4_3fpc5r6kRoRKRe)
+5. Students will review different computing advancements found on the above websites and pick one to focus on for the activity. This will be **objective 1 above**.
+6. Students will determine which problems their chosen advancement solved and make a list to be used with the last step of our activity.
+7. Students will also try and figure out the kinds of problems that this advancement caused and may cause in the future. Again students will make a list of these ideas to be used with the last step of our activity.
+8. Students will create a poster, for display in the classroom, identifying their chosen computing advancement (**objective 1 again**) with some details like when it occurred, who was responsible for this advancement, and where it happened. This poster should provide examples of the problem(s) that were solved by this advancement (**objective 2**). Students will also infer what problems this advancement caused, or will cause, and why (**objective 3**).
 
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
+While electives are not graded in our school, learning will be assessed with the following rubrik:
+
+| | Emerging | Practicing | Mastery | Advanced |
+| --- | --- | --- | --- | --- |
+| Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.| Test 1 | Test 2 | Test 3 | Test 4 |
 
 ### Outcomes
 
