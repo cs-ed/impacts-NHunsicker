@@ -3,8 +3,8 @@
 This document describes a plan for the implementation on societies impacts by computation for a course to be implemented at Chico Country Day School. The plan for implementing the class overall can be found here: https://cs-ed.github.io/edtech-plan-NHunsicker/
 
 <p align="center">
-  <img src="./images/ccds-color.png" width="200" title="CCDS Logo">
-  <img src="./images/codecombat_ozaria.jpg" width="200" title="Ozaria Logo">
+  <img src="./images/ccds-color.png" width="400" title="CCDS Logo">
+  <img src="./images/codecombat_ozaria.jpg" width="400" title="Ozaria Logo">
 </p>
 
 
