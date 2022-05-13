@@ -63,11 +63,11 @@ While electives are not graded in our school, learning will be assessed with the
 
 <table>
   <tr>
-    <th>Standard</th>
-    <th>Emerging</th>
-    <th>Practicing</th>
-    <th>Mastery</th>
-    <th>Advanced</th>
+    <th><b>Standard</b></th>
+    <th><b>Emerging</b></th>
+    <th><b>Practicing</b></th>
+    <th><b>Mastery</b></th>
+    <th><b>Advanced</b></th>
   </tr>
   <tr>
     <td><b>1B-IC-18</b> - Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.</td>
