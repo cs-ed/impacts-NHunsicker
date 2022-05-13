@@ -2,9 +2,9 @@
 
 This document describes a plan for the implementation on societies impacts by computation for a course to be implemented at Chico Country Day School. The plan for implementing the class overall can be found here: https://cs-ed.github.io/edtech-plan-NHunsicker/
 
-![CCDS Logo](https://www.chicocountryday.org/wp-content/uploads/ccds-color.png | width=200) 
+![CCDS Logo](https://www.chicocountryday.org/wp-content/uploads/ccds-color.png) 
 
-![Ozaria Logo](https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg | width=200)
+![Ozaria Logo](https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg)
 
 ## Plan
 
