@@ -68,7 +68,7 @@ While electives are not graded in our school, learning will be assessed with the
   <tr>
     <td><b>1B-IC-18</b> - Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.</td>
     <td><ul><li>One or more major sections of the assignemnt are missing.</li><li>Students may not have identified problems solved by or caused by their advancement.</li></ul></td>
-    <td><ul><li style="margin-bottom:50px">Students identified a major advancement in computation but may not have included one or more of the following: who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li><li>Students provided an example one or more problems their advancement helped to solve, but did not explain how their advancement solved it.</li><li>Students provide an example of a problem caused by their advancement with no inference to how it is related to their advancement.</li></ul></td>
+    <td><ul><li style="margin-bottom:50px;">Students identified a major advancement in computation but may not have included one or more of the following: who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li><li>Students provided an example one or more problems their advancement helped to solve, but did not explain how their advancement solved it.</li><li>Students provide an example of a problem caused by their advancement with no inference to how it is related to their advancement.</li></ul></td>
     <td><ul><li>Students identified a major advancement in computation including who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li><li>Students provided examples of problems that their advancement solved, but may not have explained how and/or why this solved problems.</li><li>Finally, students inferred problems that this advancement has caused or may cause in the future, but may not have explained why their chosen advancement is related to these problems.</li></ul></td>
     <td><ul><li>Students identified a major advancement in computation including who was responsible for the advancement, where the advancement happened, and when the advancement happened.</li><li>Students not only provided examples of which problems their advancement solved, but also why and/or how the advancement solved those issues.</li><li>Finally, students inferred problems that this advancement has caused or will cause in the future and why they think this advancement is related.</li></ul></td>
   </tr>
@@ -86,10 +86,3 @@ The plan described above doesn't necessarily focus on diversity, equity, or incl
 - Bias and stereotypes, including definitions of bias and stereotypes, where bias and stereotypes come from, types of bias, how bias can affect decisions, and how to overcome bias.
 
 The discussions around bias will be extremely helpful in the development of our students into citizens and correlates with one of the major pieces of professional development that our faculty has been working with in the 2021/2022 school year. The demographic of our school is currently less diverse than the other schools in the area. Exposure to the biases that students may have will likely be a challenge for our students' existing schemas and is important for developing empathy and and open mindedness. While this course is focused primarily on developing understanding of how to use python and how to work with algorithms, the opportunities for exploring impacts of computing with the guidance of this curriculum is exciting.
-
-#### DELETE ME TEST
-<ul><li>Item 1</li><li>Item 2</li></ul>
-
-| table cell 1 | table cell 2 |
-| --- | --- |
-| Table cell 3 | <img src="https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg"> |
